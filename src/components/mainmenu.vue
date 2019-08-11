@@ -35,19 +35,19 @@
 
             <p class="q-my-sm">Wallet Version: v{{version}}</p>
             <p class="q-my-sm">Deaemon Version: v{{daemonVersion}}</p>
-            <p class="q-my-sm">Copyright (c) 2018-2019, Scala Project</p>
+            <p class="q-my-sm">Copyright (c) 2019, Scala Network</p>
+            <p class="q-my-sm">Copyright (c) 2018-2019, Loki Network</p>
             <p class="q-my-sm">Copyright (c) 2018, Ryo Currency Project</p>
             <p class="q-my-sm">All rights reserved.</p>
 
             <div class="q-mt-md q-mb-lg external-links">
                 <p>
-                    <a @click="openExternal('https://scala.network/')" href="#">https://scala.network/</a>
+                    <a @click="openExternal('https://scalaproject.io/')" href="#">https://scalaproject.io/</a>
                 </p>
                 <p>
-                    <a @click="openExternal('https://t.me/joinchat/DeNvR0JJ4JPn6TVSQjCsZQ')" href="#">Telegram</a> -
-                    <a @click="openExternal('https://discordapp.com/invite/67GXfD6')" href="#">Discord</a> -
-                    <a @click="openExternal('https://www.reddit.com/r/ScalaProject/')" href="#">Reddit</a> -
-                    <a @click="openExternal('https://github.com/scala-project/scala-electron-wallet')" href="#">Github</a>
+                    <a @click="openExternal('https://discord.gg/QfCWRfx')" href="#">Discord</a> -
+                    <a @click="openExternal('https://www.reddit.com/r/ScalaNetwork/')" href="#">Reddit</a> -
+                    <a @click="openExternal('https://github.com/scala-network/')" href="#">Github</a>
                 </p>
             </div>
 

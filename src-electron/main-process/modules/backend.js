@@ -109,22 +109,10 @@ export class Backend {
             },
             {
                 host: "daemons.cryptopool.space",
-                port: "22023"
-            },
-            {
-                host: "node.scala-pool.com",
-                port: "18081"
-            },
-            {
-                host: "imaginary.stream",
-                port: "22023"
+                port: "20189"
             },
             {
                 host: "nodes.hashvault.pro",
-                port: "22023"
-            },
-            {
-                host: "rpc.stakeit.io",
                 port: "22023"
             }
         ]
